@@ -1,4 +1,4 @@
-# SustainableArchitectureWithAI
+# Sustainable Architecture With AI
 
 Final project for the Building AI course
 
