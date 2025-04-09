@@ -4,8 +4,9 @@ Final project for the Building AI course
 
 ## Summary
 **Idea in a nutshell**: Sustainable Architecture driven by AI
+
 This project is about building an tool using AI as technology which helps city planners, achitects and indivisuals who are involved in construction management to make better dicisions / choices in building sustainable citites.
-The tool should impower indivisuals to design for future by considering all enviromental apsects and benefit from a smart choices they can make in the intial phase of developement.
+The tool should impower individuals to design for future by considering all enviromental apsects and benefit from a smart choices they can make in the intial phase of developement.
 
 
 ## Background
